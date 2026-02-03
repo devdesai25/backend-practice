@@ -5,7 +5,7 @@ This project demonstrates async database access, environment-based configuration
 
 ---
 
-## 🚀 Features
+##  Features
 
 - User registration
 - User login
@@ -16,7 +16,7 @@ This project demonstrates async database access, environment-based configuration
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **FastAPI** – Web framework
 - **databases** – Async database access
